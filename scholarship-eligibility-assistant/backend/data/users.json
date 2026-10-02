@@ -1,0 +1,112 @@
+[
+  {
+    "id": "usr_demo_1",
+    "name": "Aarav Sharma",
+    "email": "demo@scholarship.org",
+    "passwordHash": "ce48bc1effb332eb5485f015992ca859bd4794883085484472255086b336f97232be7e24c2f0c158fd92b0acdec10497c70d9b5121db815556e813a7c214a51c",
+    "createdAt": "2026-10-02T06:27:29.095Z",
+    "profile": {
+      "fullName": "Aarav Sharma",
+      "age": 20,
+      "stateOfResidence": "Maharashtra",
+      "domicileState": "Maharashtra",
+      "category": "OBC",
+      "gender": "Male",
+      "disability": "No",
+      "course": "B.E. Computer Engineering",
+      "courseLevel": "Undergraduate",
+      "yearOfStudy": 3,
+      "institution": "Government College of Engineering",
+      "annualIncome": 200000,
+      "additionalInfo": "Interested in technical & state merit scholarships.",
+      "documents": {
+        "aadhaar": true,
+        "incomeCertificate": true,
+        "bonafideCertificate": true,
+        "marksheet": true,
+        "bankPassbook": true
+      }
+    },
+    "wallet": [
+      {
+        "id": "doc_1",
+        "documentType": "incomeCertificate",
+        "label": "Income Certificate",
+        "fileName": "income_cert_2025.pdf",
+        "uploadedAt": "2026-10-02T06:27:29.096Z",
+        "extracted": {
+          "extractedIncome": 200000,
+          "name": "Aarav Sharma",
+          "state": "Maharashtra"
+        },
+        "verified": true
+      },
+      {
+        "id": "doc_2",
+        "documentType": "domicileCertificate",
+        "label": "Domicile Certificate",
+        "fileName": "domicile_mh.pdf",
+        "uploadedAt": "2026-10-02T06:27:29.096Z",
+        "extracted": {
+          "name": "Aarav Sharma",
+          "state": "Maharashtra"
+        },
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "usr_demo_2",
+    "name": "Priya Patel",
+    "email": "priya@scholarship.org",
+    "passwordHash": "ce48bc1effb332eb5485f015992ca859bd4794883085484472255086b336f97232be7e24c2f0c158fd92b0acdec10497c70d9b5121db815556e813a7c214a51c",
+    "createdAt": "2026-10-02T06:27:29.097Z",
+    "profile": {
+      "fullName": "Priya Patel",
+      "age": 21,
+      "stateOfResidence": "Gujarat",
+      "domicileState": "Gujarat",
+      "category": "General",
+      "gender": "Female",
+      "disability": "No",
+      "course": "B.Tech Information Technology",
+      "courseLevel": "Undergraduate",
+      "yearOfStudy": 2,
+      "institution": "Gujarat Technological University",
+      "annualIncome": 450000,
+      "documents": {
+        "aadhaar": true,
+        "marksheet": true,
+        "bonafideCertificate": true
+      }
+    },
+    "wallet": []
+  },
+  {
+    "id": "usr_1790922514479_08tfza",
+    "name": "clarex",
+    "email": "clarence@gmail.com",
+    "passwordHash": "c6b05c0be1d7bd79eae528f29db7a610c15d9f3534fd8e3f2c15e5331ea3e24f51d0079400c6364dbc74931a4c7e992a204eb69d795b5cded28b0e3f9fa51bc1",
+    "createdAt": "2026-10-02T06:28:34.481Z",
+    "profile": {
+      "fullName": "",
+      "age": "19",
+      "stateOfResidence": "Maharashtra",
+      "domicileState": "",
+      "category": "General",
+      "gender": "",
+      "course": "B.A. Economics",
+      "courseLevel": "Undergraduate",
+      "yearOfStudy": "1",
+      "institution": "",
+      "annualIncome": "",
+      "disability": "",
+      "additionalInfo": "",
+      "documents": {
+        "aadhaar": true,
+        "disabilityCertificate": true
+      }
+    },
+    "wallet": []
+  }
+]
